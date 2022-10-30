@@ -1,4 +1,4 @@
-![alt text](https://cdn.discordapp.com/banners/428251510535618570/a_32e5b7f48dc311d07cc50a44b6a31bd0.gif?size=512 "insert cool animation gif thing here i guess")
+![alt text](https://i.redd.it/pqhw7ro27ih51.jpg "yup")
 
 Going insane since 2019
 
