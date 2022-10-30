@@ -1,4 +1,4 @@
-![alt text](https://i.redd.it/pqhw7ro27ih51.jpg "yup")
+<img src="https://i.redd.it/pqhw7ro27ih51.jpg"  width="300" height="300">
 
 Going insane since 2019
 
