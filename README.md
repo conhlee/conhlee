@@ -1,20 +1,17 @@
-<img src="https://i.redd.it/pqhw7ro27ih51.jpg"  width="300" height="300">
+> <img src="https://i.redd.it/pqhw7ro27ih51.jpg" width="256" height="256">
+> 
+> (above is a totally real photograph of me)
+> 
+> Going insane since 2019
 
-Going insane since 2019
+Working with:
 
-react enthusiast
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" width="50" height="50"> <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" width="50" height="50"> <img src="https://seeklogo.com/images/C/cloudflare-workers-logo-9BF89B51E2-seeklogo.com.png" width="50" height="50">
 
-<!--
-**yeetmydog/yeetmydog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning:
 
-Here are some ideas to get you started:
+<img src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" width="50" height="50">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Know (but don't use very often):
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="45" height="50">
