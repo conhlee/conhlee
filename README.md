@@ -2,7 +2,7 @@
 
 Going insane since 2019
 
-You know, I can do Scratch pretty good.
+react enthusiast
 
 <!--
 **yeetmydog/yeetmydog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
